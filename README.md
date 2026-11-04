@@ -10,3 +10,22 @@ Identify factors that positively or negatively influence students' grades.
 Explore the impact of study hours, sleep, gaming, and social media.
 
 Present meaningful insights through data visualisation.
+
+
+Tools & Technologies
+
+Power BI – Data visualisation and dashboard creation.
+
+Microsoft Excel – Data cleaning and preprocessing.
+
+Data Analytics – Exploratory data analysis and insight generation.
+
+
+Expected Outcome
+
+The project aims to identify important lifestyle factors associated with academic performance and provide meaningful insights into how students can balance their daily activities and academic responsibilities.
+
+
+Project Type
+
+Data Analytics | Academic Performance Analysis
